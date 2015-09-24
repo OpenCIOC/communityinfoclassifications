@@ -1,0 +1,10 @@
+Code,Name (en-CA),Name (fr-CA)
+FULLACCESSIBLE,Fully Accessible,Entièrement accessible
+PARTIALLYACCESSIBLE,Partially Accessible,Partiellement accessible
+NOTACCESSIBILE,Not Accessible,Non accessible
+PARKINGDESIGNATED,Designated parking at entrance,Stationnement désigné proche de l'entrée
+ENTRANCEAUTODOOR,Wheelchair accessible automatic main entrance,Entrée automatique accessible en fauteuil roulant
+ELEVATORBRAILLE,Elevator with braille and voice/tone features,Ascenseur avec affichage en braille et signaux sonores ou reconnaissance vocale
+WASHROOMDOORHELP,"Wheelchair accessible washroom, assistance needed with door","Toilettes accessibles en fauteuil roulant, aide requise avec la porte"
+NOTAPPLICABLE,Not Applicable,Sans objet
+UNKNOWN,Unknown,Inconnu

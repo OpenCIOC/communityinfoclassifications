@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[contactphonetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('ANSWERSERVICE', N'Answering Service', N'Répondeur')
+INSERT INTO [dbo].[contactphonetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('CELL', N'Cell', N'Cellulaire')
+INSERT INTO [dbo].[contactphonetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('HOME', N'Residence', N'Domicile')
+INSERT INTO [dbo].[contactphonetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('PAGER', N'Pager', N'Téléavertisseur')
+INSERT INTO [dbo].[contactphonetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('WORK', N'Business', N'Travail')

@@ -1,0 +1,8 @@
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('ADMISSION', N'Admission', N'Droit d''entrée')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('DEPOSIT', N'Deposit', N'Dépôt de garantie')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('DONATION', N'Donation', N'Don')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('FREE', N'None', N'Aucun')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('MEMBERSHIP', N'Membership', N'Adhésion')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('PROGRAM', N'Program', N'Programme')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('PUBLICATION', N'Publications', N'Publications')
+INSERT INTO [dbo].[feetype] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('SERVICE', N'Service', N'Service')
