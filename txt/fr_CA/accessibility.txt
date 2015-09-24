@@ -1,0 +1,9 @@
+﻿Entièrement accessible
+Partiellement accessible
+Non accessible
+Stationnement désigné proche de l'entrée
+Entrée automatique accessible en fauteuil roulant
+Ascenseur avec affichage en braille et signaux sonores ou reconnaissance vocale
+Toilettes accessibles en fauteuil roulant, aide requise avec la porte
+Sans objet
+Inconnu

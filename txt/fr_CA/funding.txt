@@ -1,0 +1,15 @@
+﻿Ville
+Région / Municipalité
+Comté
+Province
+État
+Fédéral
+Subventions
+Collecte de fonds
+Dons
+Centraide
+Honoraires
+Privé
+Fondation
+Vente de marchandise
+Frais d'adhésion
