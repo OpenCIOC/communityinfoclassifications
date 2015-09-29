@@ -1,6 +1,6 @@
 ## CIOC Open Community Information Classifications ##
 
-This project includes the summary of contributions from the developers and users of [CIOC Software](www.cioc.ca). By providing these values for anyone to use, we (the original content creators) hope to make it easier to find common ways to describe and share Community Service records.
+This project includes the summary of contributions from the developers and users of CIOC Software as part of the [OpenCIOC Project](http://www.opencioc.org). By providing these values for anyone to use, we (the original content creators) hope to make it easier to find common ways to describe and share Community Service records.
 
 An additional project is available for lists used to help describing Volunteer Opportunity records. It is available at https://github.com/OpenCIOC/volunteerclassifications
 
